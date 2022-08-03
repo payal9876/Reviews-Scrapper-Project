@@ -4,5 +4,8 @@
 To Srape reviews from Flipkart website
 
 # Requirements
-Flask
-vs code
+>>>>Flask
+>>>>vs code
+>>>>git cli
+>>>>Beautiful Soup
+>>>> 
